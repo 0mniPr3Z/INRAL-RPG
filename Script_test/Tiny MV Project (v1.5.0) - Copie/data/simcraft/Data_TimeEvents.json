@@ -1,0 +1,43 @@
+[
+	{
+		"id": 0,
+		"active":true,
+		"name":"game begin",
+		"date":{
+			"year":268,
+			"month":6,
+			"day":21,
+			"hour":11
+		},
+		"timeOut":{
+			"year":268,
+			"month":10,
+			"day":16,
+			"hour":13
+		},
+		"varsList":[
+			[40, ">=",10]
+		],
+		"switches_mandatory":[
+			40
+		],
+		"switches_list":[
+			41,
+			42
+		],
+		"actors_mandatory":[
+			2
+		],
+		"actors_list":[
+			1, 3, 5
+		],
+		"maps_list":[
+			1
+		],
+		"ontime":"$gameMessage.add('IS TIME')",
+		"success_condi":"$gameVariables.value(40) >= 30",
+		"onSuccess":"$gameMessage.add('IS SUCCESS')",
+		"onFail":"$gameMessage.add('IS FAIL')"
+	}
+
+]

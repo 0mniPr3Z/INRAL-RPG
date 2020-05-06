@@ -1,0 +1,105 @@
+[
+null,
+{
+	"id":1,
+	"nom":"Raciste",
+	"nomF":"Raciste",
+	"descript":"Ne s'entend pas avec les autres races."
+},
+{
+	"id":2,
+	"nom":"Maléfique",
+	"nomF":"Maléfique",
+	"descript":"Souhaite le règne de Kaos et des forces noires."
+},
+{
+	"id":3,
+	"nom":"Romantique",
+	"nomF":"Romantique",
+	"descript":"A tendance à se laissé séduire facilement."
+},
+{
+	"id":4,
+	"nom":"Suspicieux",
+	"nomF":"Suspicieuse",
+	"descript":"L'entente augmente plus lentement."
+},
+{
+	"id":5,
+	"nom":"Colèrique",
+	"nomF":"Colèrique",
+	"descript":"Se met souvent en colère."
+},
+{
+	"id":6,
+	"nom":"Sympatique",
+	"nomF":"Sympatique",
+	"descript":"A plus de réactions Entente."
+},
+{
+	"id":7,
+	"nom":"Marchandeur",
+	"nomF":"Marchandeuse",
+	"descript":"A des facultés particulières pour négocier."
+},
+{
+	"id":8,
+	"nom":"Couard",
+	"nomF":"Froussarde",
+	"descript":"Est près à prendre la fuite à la moindre occasion."
+},
+{
+	"id":9,
+	"nom":"Autoritaire",
+	"nomF":"Autoritaire",
+	"descript":"Ne se laisse pas faire."
+},
+{
+	"id":10,
+	"nom":"Charmeur",
+	"nomF":"Séductrice",
+	"descript":"Reussit plus souvent les actions de type Amour."
+},
+{
+	"id":11,
+	"nom":"Douillet",
+	"nomF":"Douillette",
+	"descript":"Ne supporte pas la douleur."
+},
+{
+	"id":12,
+	"nom":"Rêveur",
+	"nomF":"Rêveuse",
+	"descript":"A tendance à oublier les choses."
+},
+{
+	"id":13,
+	"nom":"Héroïque",
+	"nomF":"Héroïque",
+	"descript":"Combat Kaos et les force noires."
+},
+{
+	"id":14,
+	"nom":"Bavard",
+	"nomF":"Bavarde",
+	"descript":"Parle plus que les autres."
+},
+{
+	"id":15,
+	"nom":"Accueillant",
+	"nomF":"Accueillante",
+	"descript":"Réagit bien aux rencontres."
+},
+{
+	"id":16,
+	"nom":"Arrogant",
+	"nomF":"Arrogante",
+	"descript":"Ne se prend pas pour de la mer..."
+},
+{
+	"id":17,
+	"nom":"Pleurnichard",
+	"nomF":"Chouineuse",
+	"descript":"Toujours à se plaindre."
+}
+]
